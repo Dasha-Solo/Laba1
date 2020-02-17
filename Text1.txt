@@ -1,2 +1,6 @@
 Hello! It is my first lab. Let's get started. 
+<<<<<<< HEAD
 Changes_two
+=======
+Changes_one 
+>>>>>>> branch1
